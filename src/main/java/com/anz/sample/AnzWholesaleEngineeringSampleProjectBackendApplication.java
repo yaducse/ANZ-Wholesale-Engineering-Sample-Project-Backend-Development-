@@ -29,7 +29,7 @@ public class AnzWholesaleEngineeringSampleProjectBackendApplication implements C
 	public void run(String... args) throws Exception {
 		/****
 		 * 
-		 * This run method initializes tables in data with hard-coded values
+		 * This run method initializes tables in database with hard-coded values
 		 * 
 		 */
 		accountListRepository.deleteAll();
