@@ -15,7 +15,7 @@ spring.datasource.password=//Enter your password here
 
 ## Running the application
 
-This is Spring boot based project so select the [AnzWholesaleEngineeringSampleProjectBackendApplication.java](https://github.com/yaducse/ANZ-Wholesale-Engineering-Sample-Project-Backend-Development-/blob/main/src/main/java/com/anz/sample/AnzWholesaleEngineeringSampleProjectBackendApplication.java) file and run as spring boot app (on **STS IDE****) or run as maven application (on **Eclipse IDE****) to run the application.
+This is Spring boot based project so select the [AnzWholesaleEngineeringSampleProjectBackendApplication.java](https://github.com/yaducse/ANZ-Wholesale-Engineering-Sample-Project-Backend-Development-/blob/main/src/main/java/com/anz/sample/AnzWholesaleEngineeringSampleProjectBackendApplication.java) file and run as spring boot app (on **STS IDE**) or run as maven application (on **Eclipse IDE**) to run the application.
 
 ## Viewing the output
 1. View Account List :
